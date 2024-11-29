@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkusRiepl
 - 👀 I’m interested in so many things
-- 🌱 I’m currently learning C#, C, C++, ....
+- 🌱 I’m currently learning C# & ASP.NET and many other things
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me: don't contact me, I'll contact you
 - 😄 Pronouns: Yes, I do have some 
